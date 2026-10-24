@@ -2,6 +2,7 @@
 
 Standalone computational algorithms for academic workload calculation, cohort stream bundling, faculty appointment quota validation, and course discrepancy reconciliation.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23611473.svg)](https://doi.org/10.5281/zenodo.23611473)
 [![PHP Version](https://img.shields.io/badge/PHP-%3E%3D8.0-blue.svg)](https://php.net)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Tests](https://img.shields.io/badge/tests-23%20passed%20%28100%25%29-brightgreen.svg)](tests/)
@@ -127,5 +128,18 @@ phpunit -c phpunit.xml
 
 ## 7. License & Citation
 
-- **License**: See [LICENSE-PENDING.md](LICENSE-PENDING.md). Final open-source licensing is pending formal institutional authorization.
-- **Citation**: See [CITATION.cff](CITATION.cff) for academic citation metadata.
+- **License**: Released under the permissive [MIT License](LICENSE).
+- **Persistent DOI**: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23611473.svg)](https://doi.org/10.5281/zenodo.23611473) (`10.5281/zenodo.23611473`)
+- **Citation**: See [CITATION.cff](CITATION.cff) for complete BibTeX and academic citation metadata.
+
+```bibtex
+@software{afrt_core_2026,
+  author       = {{AFRT Research Team}},
+  title        = {AFRT Core: Standalone Computational Algorithms for Academic Workload Allocation and Cohort Partitioning},
+  year         = 2026,
+  publisher    = {Zenodo},
+  version      = {v0.1.0-alpha},
+  doi          = {10.5281/zenodo.23611473},
+  url          = {https://doi.org/10.5281/zenodo.23611473}
+}
+```

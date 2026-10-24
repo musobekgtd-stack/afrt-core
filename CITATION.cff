@@ -12,6 +12,8 @@ abstract: >-
   discrepancy reconciliation.
 version: 0.1.0-alpha
 date-released: "2026-10-23"
+doi: 10.5281/zenodo.23611473
+url: "https://doi.org/10.5281/zenodo.23611473"
 repository-code: "https://github.com/musobekgtd-stack/afrt-core"
 keywords:
   - academic-workload
