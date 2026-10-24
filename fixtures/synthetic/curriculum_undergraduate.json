@@ -1,0 +1,69 @@
+{
+  "description": "Synthetic Undergraduate Curriculum Fixture - 100% Fictitious",
+  "subjects": [
+    {
+      "code": "SYN-CS101",
+      "name": "Introduction to Computer Systems",
+      "lectureHours": 30.0,
+      "practicalHours": 30.0,
+      "labHours": 30.0,
+      "seminarHours": 0.0,
+      "enterprisePracticeHours": 0.0,
+      "courseworkHoursPerStudent": 2.0,
+      "bachelorThesisStudents": 0,
+      "masterThesisStudents": 0,
+      "phdStudents": 0,
+      "examHours": 4.0,
+      "internshipHours": 0.0,
+      "educationLevel": "bachelor"
+    },
+    {
+      "code": "SYN-EC201",
+      "name": "Macroeconomic Principles",
+      "lectureHours": 36.0,
+      "practicalHours": 36.0,
+      "labHours": 0.0,
+      "seminarHours": 18.0,
+      "enterprisePracticeHours": 10.0,
+      "courseworkHoursPerStudent": 0.0,
+      "bachelorThesisStudents": 0,
+      "masterThesisStudents": 0,
+      "phdStudents": 0,
+      "examHours": 4.0,
+      "internshipHours": 0.0,
+      "educationLevel": "bachelor"
+    },
+    {
+      "code": "SYN-MATH102",
+      "name": "Linear Algebra and Differential Equations",
+      "lectureHours": 40.0,
+      "practicalHours": 40.0,
+      "labHours": 0.0,
+      "seminarHours": 0.0,
+      "enterprisePracticeHours": 0.0,
+      "courseworkHoursPerStudent": 0.0,
+      "bachelorThesisStudents": 0,
+      "masterThesisStudents": 0,
+      "phdStudents": 0,
+      "examHours": 6.0,
+      "internshipHours": 0.0,
+      "educationLevel": "bachelor"
+    },
+    {
+      "code": "SYN-THESIS-UG",
+      "name": "Undergraduate Graduation Thesis Supervision",
+      "lectureHours": 0.0,
+      "practicalHours": 0.0,
+      "labHours": 0.0,
+      "seminarHours": 0.0,
+      "enterprisePracticeHours": 0.0,
+      "courseworkHoursPerStudent": 0.0,
+      "bachelorThesisStudents": 8,
+      "masterThesisStudents": 0,
+      "phdStudents": 0,
+      "examHours": 0.0,
+      "internshipHours": 30.0,
+      "educationLevel": "bachelor"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "description": "Synthetic Discrepancy Matching Pairs - 100% Fictitious",
+  "curriculumTitles": [
+    "Algoritmik tillar va dasturlash",
+    "O‘zbekiston tarixi",
+    "Ma'lumotlar bazasi",
+    "Mikroiqtisodiyot",
+    "Oliy matematika",
+    "Ekonometrik modellashtirish",
+    "Kvant hisoblash asoslari"
+  ],
+  "externalTitles": [
+    "Algoritmik tillar va dasturlash",
+    "Ўзбекистон тарихи",
+    "Ma‘lumotlar bazasi",
+    "Mikroiqtisodiyot (1-qism)",
+    "Oliy matematika 2-modul",
+    "Ekonometrika modellashtirish",
+    "Sun'iy intellekt asoslari"
+  ],
+  "expectedMatchTypes": {
+    "Algoritmik tillar va dasturlash": "EXACT",
+    "O‘zbekiston tarixi": "NORMALIZED",
+    "Ma'lumotlar bazasi": "NORMALIZED",
+    "Mikroiqtisodiyot": "SUBPART",
+    "Oliy matematika": "SUBPART",
+    "Ekonometrik modellashtirish": "FUZZY",
+    "Kvant hisoblash asoslari": "UNMATCHED"
+  }
+}

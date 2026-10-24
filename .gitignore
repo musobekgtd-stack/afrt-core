@@ -1,0 +1,6 @@
+.phpunit.result.cache
+vendor/
+composer.lock
+*.tmp
+.DS_Store
+Thumbs.db

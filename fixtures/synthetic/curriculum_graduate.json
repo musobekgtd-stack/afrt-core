@@ -1,0 +1,37 @@
+{
+  "description": "Synthetic Graduate Curriculum Fixture - 100% Fictitious",
+  "subjects": [
+    {
+      "code": "SYN-DATA501",
+      "name": "Advanced Algorithmic Data Engineering",
+      "lectureHours": 24.0,
+      "practicalHours": 0.0,
+      "labHours": 36.0,
+      "seminarHours": 12.0,
+      "enterprisePracticeHours": 0.0,
+      "courseworkHoursPerStudent": 3.0,
+      "bachelorThesisStudents": 0,
+      "masterThesisStudents": 0,
+      "phdStudents": 0,
+      "examHours": 4.0,
+      "internshipHours": 0.0,
+      "educationLevel": "master"
+    },
+    {
+      "code": "SYN-THESIS-PG",
+      "name": "Master Dissertation and Doctoral Mentorship",
+      "lectureHours": 0.0,
+      "practicalHours": 0.0,
+      "labHours": 0.0,
+      "seminarHours": 0.0,
+      "enterprisePracticeHours": 0.0,
+      "courseworkHoursPerStudent": 0.0,
+      "bachelorThesisStudents": 0,
+      "masterThesisStudents": 4,
+      "phdStudents": 2,
+      "examHours": 0.0,
+      "internshipHours": 40.0,
+      "educationLevel": "master"
+    }
+  ]
+}

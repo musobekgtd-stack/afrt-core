@@ -1,0 +1,61 @@
+{
+  "description": "Synthetic Cohort Groups - 100% Fictitious",
+  "groups": [
+    {
+      "id": "GRP-SYN-01",
+      "name": "SYN-CS-23-01",
+      "studentCount": 26,
+      "language": "uz",
+      "semester": 1,
+      "educationLevel": "bachelor"
+    },
+    {
+      "id": "GRP-SYN-02",
+      "name": "SYN-CS-23-02",
+      "studentCount": 24,
+      "language": "uz",
+      "semester": 1,
+      "educationLevel": "bachelor"
+    },
+    {
+      "id": "GRP-SYN-03",
+      "name": "SYN-CS-23-03",
+      "studentCount": 28,
+      "language": "uz",
+      "semester": 1,
+      "educationLevel": "bachelor"
+    },
+    {
+      "id": "GRP-SYN-04",
+      "name": "SYN-CS-23-04",
+      "studentCount": 18,
+      "language": "uz",
+      "semester": 1,
+      "educationLevel": "bachelor"
+    },
+    {
+      "id": "GRP-SYN-05",
+      "name": "SYN-CS-23-05",
+      "studentCount": 30,
+      "language": "uz",
+      "semester": 1,
+      "educationLevel": "bachelor"
+    },
+    {
+      "id": "GRP-SYN-06",
+      "name": "SYN-EC-23-EN",
+      "studentCount": 22,
+      "language": "en",
+      "semester": 1,
+      "educationLevel": "bachelor"
+    },
+    {
+      "id": "GRP-SYN-07",
+      "name": "SYN-M-DATA-01",
+      "studentCount": 14,
+      "language": "uz",
+      "semester": 1,
+      "educationLevel": "master"
+    }
+  ]
+}

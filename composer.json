@@ -1,0 +1,34 @@
+{
+    "name": "afrt/afrt-core",
+    "description": "Standalone computational algorithms for academic workload calculation, cohort stream bundling, and allocation validation",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "AFRT Research Team",
+            "email": "afrt-core@example.org",
+            "role": "Original Computational Authors"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.5 || ^9.5 || ^10.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Afrt\\Core\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Afrt\\Core\\Tests\\": "tests/"
+        }
+    },
+    "config": {
+        "sort-packages": true,
+        "optimize-autoloader": true
+    },
+    "minimum-stability": "stable"
+}

@@ -1,0 +1,45 @@
+{
+  "description": "Synthetic Faculty Profiles - 100% Fictitious",
+  "faculty": [
+    {
+      "id": "FAC-SYN-001",
+      "name": "Prof. Al-Khwarizmi Synthetic",
+      "academicRank": "professor",
+      "fte": 1.0,
+      "currentAllocatedHours": 450.0,
+      "currentAuditoriumHours": 240.0
+    },
+    {
+      "id": "FAC-SYN-002",
+      "name": "Dr. Ada Lovelace Synthetic",
+      "academicRank": "docent",
+      "fte": 1.0,
+      "currentAllocatedHours": 720.0,
+      "currentAuditoriumHours": 380.0
+    },
+    {
+      "id": "FAC-SYN-003",
+      "name": "Alan Turing Synthetic",
+      "academicRank": "senior_lecturer",
+      "fte": 0.5,
+      "currentAllocatedHours": 180.0,
+      "currentAuditoriumHours": 120.0
+    },
+    {
+      "id": "FAC-SYN-004",
+      "name": "Claude Shannon Synthetic",
+      "academicRank": "assistant",
+      "fte": 1.5,
+      "currentAllocatedHours": 900.0,
+      "currentAuditoriumHours": 500.0
+    },
+    {
+      "id": "FAC-SYN-005",
+      "name": "Emmy Noether Synthetic",
+      "academicRank": "docent",
+      "fte": 0.75,
+      "currentAllocatedHours": 550.0,
+      "currentAuditoriumHours": 280.0
+    }
+  ]
+}
